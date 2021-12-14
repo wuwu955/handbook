@@ -33,6 +33,7 @@
 - [draw.io](https://www.draw.io) 免费的在线图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图
 - [Pixel Art to CSS](https://www.pixelartcss.com/) 是一个在线像素风绘图工具 [![Open-Source Software][OSS Icon]](https://github.com/jvalen/pixel-art-react)
 - [codeimg.io](https://codeimg.io/) 把源代码变成漂亮的图片的工具。
+- [Codepng](https://www.codepng.app/) 代码片段转为美观的图片。
 - [ray.so](https://ray.so/) 可以生成漂亮的代码截图，颜色、阴影、背景都可以调整。
 - [Pixlr X](https://pixlr.com/x) 基于 Canvas 和 WebGL 的在线图像编辑器。
 - [Terrastruct](https://terrastruct.com/) 一个在线的架构图、流程图工具。
@@ -57,6 +58,7 @@
 - [swagger](https://swagger.io) 一款RESTful 接口的文档在线自动生成+功能测试功能软件。
 - [swagger editor](https://editor.swagger.io/) 在线版编辑器。
 - [EditCSV Online](https://www.editcsvonline.com/) 一个编辑 CSV 文件的在线工具。
+- [html-md](https://devtool.tech/html-md) 在线小工具，将网页转成 Markdown 代码。
 
 ## npm
 
@@ -66,6 +68,8 @@
 - [BundlePhobia](https://bundlephobia.com/) 查看添加 npm 软件包的成本。
 - [PackagePhobia](https://packagephobia.com/) 查找向项目添加新开发依赖项的成本。
 - [npmview](https://npmview.now.sh/) 让你查看 npm 模块里面包含了什么文件。
+- [anvaka](https://npm.anvaka.com/) npm 依赖的可视化
+- [Skypack](https://www.skypack.dev) 无需安装和构建工具即可加载优化的 npm 包。
 
 ## 工具
 
@@ -116,6 +120,7 @@
 - https://regex101.com/
 - https://regexper.com/
 - http://myregexp.com/
+- https://ihateregex.io/ [`Github`](https://github.com/geongeorge/i-hate-regex)
 
 ## Github
 
@@ -130,6 +135,7 @@
 - [GitHub 加速下载](http://toolwa.com/github/)
 - [GitHub Skyline](https://skyline.github.com) GitHub 官方出品，将你过去一年的提交统计转成一个三维的直方图。
 - [Github Chart API](https://ghchart.rshah.org/) 将您的 GitHub 图表嵌入到您想要的任何 HTML 中。
+- [Repobeats](https://repobeats.axiom.co/) 在 GitHub 仓库的 README 文件里面，加入图形化的项目数据统计。
 
 ## 办公类应用
 

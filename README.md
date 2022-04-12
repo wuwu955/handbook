@@ -1,4 +1,5 @@
-# 笔记/搜集/摘录/实践
+笔记/搜集/摘录/实践
+===
 
 放置我的笔记、搜集、摘录、实践，保持好奇心。这里就是个随记，涉猎技术知识点广而不精，不能保证正确，看文需谨慎，后果很严重。
 
@@ -51,6 +52,15 @@
 - [uiw](https://github.com/uiwjs/uiw) <img align="bottom" height="13" src="https://img.shields.io/github/stars/uiwjs/uiw.svg?label=" /> - 高质量的 UI 组件库基于 React 的组件库。 [![Open-Source Software][OSS Icon]](https://github.com/uiwjs/uiw) ![hot][hot Icon]
 - [vim-web](https://github.com/jaywcjlove/vim-web) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/vim-web.svg?label=" /> - 搞得像IDE一样的Vim，安装配置自己的Vim。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web)
 
+## 搜集整理
+
+- **[70多个公众账号推荐，助你了解程序员的世界★★★★★](other/公众账号推荐.md)**
+- **[常见HTTP/FTP/WebSockets状态码大全★★★★★](other/HTTP-Status-codes.md)**
+- [国内互联网公司的开源项目及Github地址汇总](other/Github-Oraganizations.md)
+- [通过代理工具提高Github Clone速度](other/通过代理工具提高Github%20Clone速度.md)
+- [谷歌(Google)镜像](https://github.com/jaywcjlove/google)
+- [Lua5.3中文手册](other/Lua5.3.md)
+- [搜集的各种在线小工具](awesome.md)
 
 ## 笔记教程
 
@@ -115,15 +125,15 @@ Redis是一个开源的，先进的 key-value 存储可用于构建高性能的�
 - [命令行工具bash快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/bash.md)
 - [Sublime 编辑器快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/sublime.md)
 
-## 其它
+## Contributors
 
-- **[70多个公众账号推荐，助你了解程序员的世界★★★★★](other/公众账号推荐.md)**
-- **[常见HTTP/FTP/WebSockets状态码大全★★★★★](other/HTTP-Status-codes.md)**
-- [国内互联网公司的开源项目及Github地址汇总](other/Github-Oraganizations.md)
-- [通过代理工具提高Github Clone速度](other/通过代理工具提高Github%20Clone速度.md)
-- [谷歌(Google)镜像](https://github.com/jaywcjlove/google)
-- [Lua5.3中文手册](other/Lua5.3.md)
+As always, thanks to our amazing contributors!
 
+<a href="https://github.com/jaywcjlove/handbook/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/handbook/CONTRIBUTORS.svg" />
+</a>
+
+Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
 
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot"
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open source ui componet on Github"
